@@ -1,0 +1,74 @@
+# TCM Gewürze
+
+> TCM Gewürze A–Z: Eigenschaften und Wirkungen von Heilgewürzen aus der Küche nach der Traditionellen Chinesischen Medizin – von Anis über Ingwer bis Zimt.
+
+Eine einzelne statische Seite (https://zagathou.github.io/tcm-gewuerze/) mit 41 Gewürzen und Heilgewürzen aus der Küche, alphabetisch von A bis Z. Pro Eintrag: deutscher Name, botanischer (lateinischer) Name, Eigenschaften und TCM-Wirkungen mit Stärke (1 = stark, 2 und höher = schwächer) und Indikationen inkl. Anwendungshinweisen in Klammern. Alle Inhalte stammen unverändert von therapeutika.ch (Stand: 29.09.2026). „Pfeffer, weiss“ ist aufgeführt, hat aber keinen eigenen Eintrag auf therapeutika.ch. Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
+
+## Dateien
+
+- [Webseite (HTML)](https://zagathou.github.io/tcm-gewuerze/): alle Einträge als Karten, ohne JavaScript
+- [llms-full.txt](https://zagathou.github.io/tcm-gewuerze/llms-full.txt): alle Einträge als reiner Text
+
+## Einträge A–Z
+
+- [Anis](https://zagathou.github.io/tcm-gewuerze/#anis): Pimpinella anisum
+- [Basilikum](https://zagathou.github.io/tcm-gewuerze/#basilikum): Ocimum basilicum
+- [Bertram](https://zagathou.github.io/tcm-gewuerze/#bertram): Anacyclus pyrethrum
+- [Bockshornklee](https://zagathou.github.io/tcm-gewuerze/#bockshornklee): Trigonella foenum-graecum
+- [Bohnenkraut](https://zagathou.github.io/tcm-gewuerze/#bohnenkraut): Satureja hortensis
+- [Chili](https://zagathou.github.io/tcm-gewuerze/#chili): Capsicum annuum
+- [Dill](https://zagathou.github.io/tcm-gewuerze/#dill): Anethum graveolens
+- [Estragon](https://zagathou.github.io/tcm-gewuerze/#estragon): Artemisia dracunculus
+- [Fenchel](https://zagathou.github.io/tcm-gewuerze/#fenchel): Foeniculum vulgare
+- [Galgant](https://zagathou.github.io/tcm-gewuerze/#galgant): Alpinia officinarum
+- [Gewürznelke](https://zagathou.github.io/tcm-gewuerze/#gewuerznelke): Syzygium aromaticum
+- [Ingwer](https://zagathou.github.io/tcm-gewuerze/#ingwer): Zingiber officinalis
+- [Kakao](https://zagathou.github.io/tcm-gewuerze/#kakao)
+- [Knoblauch](https://zagathou.github.io/tcm-gewuerze/#knoblauch): Allium sativum
+- [Koriander](https://zagathou.github.io/tcm-gewuerze/#koriander): Coriandrum sativum
+- [Kreuzkümmel](https://zagathou.github.io/tcm-gewuerze/#kreuzkuemmel): Cuminum cyminum
+- [Kümmel](https://zagathou.github.io/tcm-gewuerze/#kuemmel): Carum carvi
+- [Kurkuma](https://zagathou.github.io/tcm-gewuerze/#kurkuma): Curcuma longa
+- [Lauch](https://zagathou.github.io/tcm-gewuerze/#lauch): Allium porum
+- [Liebstöckel](https://zagathou.github.io/tcm-gewuerze/#liebstoeckel): Levisticum officinale
+- [Lorbeerblatt](https://zagathou.github.io/tcm-gewuerze/#lorbeerblatt): Laurus nobilis
+- [Majoran](https://zagathou.github.io/tcm-gewuerze/#majoran): Origanum majorana
+- [Melisse](https://zagathou.github.io/tcm-gewuerze/#melisse): Melissa officinalis
+- [Muskat](https://zagathou.github.io/tcm-gewuerze/#muskat): Myristica fragrans
+- [Oregano](https://zagathou.github.io/tcm-gewuerze/#oregano): Origanum vulgare
+- [Paprika](https://zagathou.github.io/tcm-gewuerze/#paprika)
+- [Pfeffer, schwarz](https://zagathou.github.io/tcm-gewuerze/#pfeffer-schwarz): Piper nigrum
+- [Pfeffer, weiss](https://zagathou.github.io/tcm-gewuerze/#pfeffer-weiss) (nicht auf therapeutika.ch gefunden)
+- [Piment](https://zagathou.github.io/tcm-gewuerze/#piment): Pimenta officinalis
+- [Rosmarin](https://zagathou.github.io/tcm-gewuerze/#rosmarin): Salvia rosmarinus
+- [Safran](https://zagathou.github.io/tcm-gewuerze/#safran): Crocus sativus
+- [Salbei](https://zagathou.github.io/tcm-gewuerze/#salbei): Salvia officinalis
+- [Salz](https://zagathou.github.io/tcm-gewuerze/#salz)
+- [Senf](https://zagathou.github.io/tcm-gewuerze/#senf)
+- [Sumach](https://zagathou.github.io/tcm-gewuerze/#sumach): Rhus aromatica / coriaria L. / glabra
+- [Süssholz](https://zagathou.github.io/tcm-gewuerze/#suessholz): Liquiritia glabra
+- [Thymian](https://zagathou.github.io/tcm-gewuerze/#thymian): Thymus vulgaris
+- [Vanille](https://zagathou.github.io/tcm-gewuerze/#vanille): Vanilla planifolia / fragrans / aromatica
+- [Ysop](https://zagathou.github.io/tcm-gewuerze/#ysop): Hyssopus officinalis
+- [Zimt](https://zagathou.github.io/tcm-gewuerze/#zimt): Cinnamomi ramulus
+- [Zitronenschale](https://zagathou.github.io/tcm-gewuerze/#zitronenschale): Citrus limon pericarpium
+- [Zwiebel](https://zagathou.github.io/tcm-gewuerze/#zwiebel): Allium cepa
+
+## Autor
+
+- Christian Grigoriadis (Künstlername: Zagathou)
+- E-Mail: xelotath@outlook.de
+- Session-ID: 055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173
+- Website: https://freyna.org/
+- GitHub: https://github.com/Zagathou
+
+## Weitere Seiten
+
+- [TCM Proteine](https://zagathou.github.io/tcm-proteine/)
+- [TCM Fette](https://zagathou.github.io/tcm-fette/)
+- [TCM Kohlenhydrate](https://zagathou.github.io/tcm-kohlenhydrate/)
+- [TCM Heilkräuter](https://zagathou.github.io/tcm-heilkraeuter/)
+
+## Quelle
+
+- [therapeutika.ch](https://www.therapeutika.ch/)

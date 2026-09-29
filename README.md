@@ -10,6 +10,14 @@
 - Pro Gewürz: deutscher Name, botanischer (lateinischer) Name, Eigenschaften, TCM-Wirkungen mit Stärke (1 = stark, 2 und höher = schwächer) und Indikationen
 - Enthalten: Anis, Basilikum, Bertram, Bockshornklee, Bohnenkraut, Chili, Dill, Estragon, Fenchel, Galgant, Gewürznelke, Ingwer, Kakao, Knoblauch, Koriander, Kreuzkümmel, Kümmel, Kurkuma, Lauch, Liebstöckel, Lorbeerblatt, Majoran, Melisse, Muskat, Oregano, Paprika, Pfeffer (schwarz), Piment, Rosmarin, Safran, Salbei, Salz, Senf, Sumach, Süssholz, Thymian, Vanille, Ysop, Zimt, Zitronenschale, Zwiebel
 
+## Für KI und Maschinen lesbar
+
+- Sauberes, semantisches HTML (`main`, `article`, `nav`, `h1`–`h4`, Listen), alle Inhalte als Text im DOM
+- Strukturierte Daten als JSON-LD (`CollectionPage` mit `ItemList`)
+- [`llms.txt`](https://zagathou.github.io/tcm-gewuerze/llms.txt): Kurzüberblick über die Seite
+- [`llms-full.txt`](https://zagathou.github.io/tcm-gewuerze/llms-full.txt): alle Einträge als reiner Text
+- `robots.txt` erlaubt alle Crawler (inkl. KI-Crawler), `sitemap.xml` vorhanden
+
 ## Technik
 
 Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa und Nunito (Google Fonts). Farbschema angelehnt an [freyna.org](https://freyna.org/). Gehostet mit GitHub Pages.
@@ -22,6 +30,17 @@ Alle Eigenschaften und TCM-Wirkungen stammen von **[therapeutika.ch](https://www
 
 Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
 
----
+## Weitere Seiten
 
-Zusammengestellt von Zagato · [freyna.org](https://freyna.org/)
+- [TCM Proteine](https://zagathou.github.io/tcm-proteine/)
+- [TCM Fette](https://zagathou.github.io/tcm-fette/)
+- [TCM Kohlenhydrate](https://zagathou.github.io/tcm-kohlenhydrate/)
+- [TCM Heilkräuter](https://zagathou.github.io/tcm-heilkraeuter/)
+
+## Kontakt
+
+- Name: Christian Grigoriadis (Künstlername: Zagathou)
+- E-Mail: [xelotath@outlook.de](mailto:xelotath@outlook.de)
+- Session-ID: `055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173`
+- Website: [freyna.org](https://freyna.org/)
+- GitHub: [github.com/Zagathou](https://github.com/Zagathou)
