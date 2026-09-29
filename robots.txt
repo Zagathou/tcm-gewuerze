@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zagathou.github.io/tcm-gewuerze/sitemap.xml
