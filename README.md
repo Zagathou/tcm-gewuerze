@@ -14,17 +14,17 @@
 
 - Sauberes, semantisches HTML (`main`, `article`, `nav`, `h1`–`h4`, Listen), alle Inhalte als Text im DOM
 - Strukturierte Daten als JSON-LD (`CollectionPage` mit `ItemList`)
-- [`llms.txt`](https://zagathou.github.io/tcm-gewuerze/llms.txt): Kurzüberblick über die Seite
-- [`llms-full.txt`](https://zagathou.github.io/tcm-gewuerze/llms-full.txt): alle Einträge als reiner Text
+- [`LLMS.TXT`](https://zagathou.github.io/tcm-gewuerze/llms.txt): Kurzüberblick über die Seite
+- [`LLMS-FULL.TXT`](https://zagathou.github.io/tcm-gewuerze/llms-full.txt): alle Einträge als reiner Text
 - `robots.txt` erlaubt alle Crawler (inkl. KI-Crawler), `sitemap.xml` vorhanden
 
 ## Technik
 
-Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa und Nunito (Google Fonts). Farbschema angelehnt an [freyna.org](https://freyna.org/). Gehostet mit GitHub Pages.
+Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa und Nunito (Google Fonts). Farbschema angelehnt an [FREYNA.ORG](https://freyna.org/). Gehostet mit GitHub Pages.
 
 ## Quelle
 
-Alle Eigenschaften und TCM-Wirkungen stammen von **[therapeutika.ch](https://www.therapeutika.ch/)** (Stand: 29.09.2026). Die Texte wurden unverändert übernommen.
+Alle Eigenschaften und TCM-Wirkungen stammen von **[THERAPEUTIKA.CH](https://www.therapeutika.ch/)** (Stand: 29.09.2026). Die Texte wurden unverändert übernommen.
 
 ## Hinweis
 
@@ -32,15 +32,15 @@ Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
 
 ## Weitere Seiten
 
-- [TCM Proteine](https://zagathou.github.io/tcm-proteine/)
-- [TCM Fette](https://zagathou.github.io/tcm-fette/)
-- [TCM Kohlenhydrate](https://zagathou.github.io/tcm-kohlenhydrate/)
-- [TCM Heilkräuter](https://zagathou.github.io/tcm-heilkraeuter/)
+- [TCM PROTEINE](https://zagathou.github.io/tcm-proteine/)
+- [TCM FETTE](https://zagathou.github.io/tcm-fette/)
+- [TCM KOHLENHYDRATE](https://zagathou.github.io/tcm-kohlenhydrate/)
+- [TCM HEILKRÄUTER](https://zagathou.github.io/tcm-heilkraeuter/)
 
 ## Kontakt
 
 - Name: Christian Grigoriadis (Künstlername: Zagathou)
-- E-Mail: [xelotath@outlook.de](mailto:xelotath@outlook.de)
+- E-Mail: [XELOTATH@OUTLOOK.DE](mailto:xelotath@outlook.de)
 - Session-ID: `055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173`
-- Website: [freyna.org](https://freyna.org/)
-- GitHub: [github.com/Zagathou](https://github.com/Zagathou)
+- Website: [FREYNA.ORG](https://freyna.org/)
+- GitHub: [GITHUB.COM/ZAGATHOU](https://github.com/Zagathou)

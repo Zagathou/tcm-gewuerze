@@ -1024,3 +1024,5 @@ Latein: Allium cepa
 Quelle: https://www.therapeutika.ch/Zwiebel
 
 ---
+
+Last Updated: 01.10.2026
